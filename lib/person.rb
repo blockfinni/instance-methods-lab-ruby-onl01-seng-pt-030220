@@ -2,7 +2,7 @@ class Person
   
   #method for bark 
   def talk
-    puts "Woof!" 
+    puts "Hello World!" 
   end #method end 
   
   #second method 
