@@ -6,7 +6,7 @@ class Person
   end #method end 
   
   #second method 
-  def sit 
+  def walk
     puts "The Dog is sitting"
   end #method end 
   
