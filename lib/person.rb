@@ -7,7 +7,7 @@ class Person
   
   #second method 
   def walk
-    puts "The Dog is sitting"
+    puts "The Person is walking"
   end #method end 
   
   
