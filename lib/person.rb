@@ -1,7 +1,7 @@
 class Person 
   
   #method for bark 
-  def bark
+  def talk
     puts "Woof!" 
   end #method end 
   
